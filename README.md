@@ -1,15 +1,15 @@
 <h1 align="center">Salut👋, Je suis Calvin !</h1>
 <h3 align="center">Je suis développeur Informatique Front end et Back end</h3>
 
-- 🔭 En ce moment je travaille sur [Couleur des Champs](https://couleurs-des-champs.netlify.app/)
+-  En ce moment je travaille sur [Couleur des Champs](https://couleurs-des-champs.netlify.app/)
 
-- 👯 Mais collabore aussi sur cette boutique en ligne [Sync Case](https://synccase.net/)
+-  Mais collabore aussi sur cette boutique en ligne [Sync Case](https://synccase.net/)
 
-- 👨‍💻 Tout mes projets se trouve ici : [https://calvin-ramjeeawon.netlify.app/](https://calvin-ramjeeawon.netlify.app/)
+- Tout mes projets se trouve ici : [https://calvin-ramjeeawon.netlify.app/](https://calvin-ramjeeawon.netlify.app/)
 
-- 📫 Pour me contacter **ramjeeawoncalvin@gmail.com**
+- Pour me contacter **ramjeeawoncalvin@gmail.com**
 
-- ⚡ Fun fact **Mon premier site a été fait en 2014**
+- Fun fact **Mon premier site a été fait en 2014**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
