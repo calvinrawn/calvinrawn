@@ -4,7 +4,7 @@
 
 Je crée des solutions web allant de la vitrine institutionnelle aux applications dynamiques complexes. Mon approche combine une attention particulière au design (UI/UX) et une rigueur technique axée sur la performance et la sécurité.
 
-**[Mon Portfolio](https://calvin-ramjeeawon.netlify.app/)**, présentant tous mes projets web. Notez toutefois que mes projets les plus récents sont principalement privés !
+👉 **[Mon Portfolio](https://calvin-ramjeeawon.netlify.app/)**, présentant tous mes projets web. Notez toutefois que mes projets les plus récents sont principalement privés !
 
 ---
 
