@@ -31,7 +31,7 @@ Je crée des solutions web allant de la vitrine institutionnelle aux application
 
 - **[Your Guide Cruise](https://yourguidecruise.netlify.app/)** : Site web dédié à la comparaison de prix de billets de croisière, en collaboration avec John Cruxton.
 - **[Sync Case](https://synccase.net/)** : Site e-commerce créé avec Shopify, dédié à la vente de coques de téléphone à technologie NFC.
-- **[Couleurs des Couleurs](https://couleurs-des-champs.netlify.app/)** : Site vitrine présentant un supermarché basé à Vaudoy-en-Brie.
+- **[Couleurs des Champs](https://couleurs-des-champs.netlify.app/)** : Site vitrine présentant un supermarché basé à Vaudoy-en-Brie.
 - **[Stellar Kanban](https://stellar-kanban.netlify.app/)** : Développement d'une application Kanban dédiée à la gestion de projet en ligne.
 
 ---
